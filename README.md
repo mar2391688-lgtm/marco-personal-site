@@ -25,6 +25,7 @@ This is an ongoing project, and I plan to update and improve it as I learn new s
 
 ## Website Preview
 
+https://mar2391688-lgtm.github.io/marco-personal-site/
 ![Website Preview](website-preview.png)
 
 ## Project Files
